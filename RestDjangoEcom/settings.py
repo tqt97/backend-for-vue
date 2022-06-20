@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-n#@y*%v5g1p53=fi-2_g)yw#ti+%5j5(m#=_ua$9-rk*m78#5j
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://tqt-be-vue.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 STRIPE_SECRET_KEY = 'sk_test_51L3IEXGA7goTPkXeUfAWFoIjQ278h8eDRv3GFc2NNfTk86X2VQqE8COzMdvDXptAL1B17SzUZdGZQneRach4ELC300x7kIyrjh'
 
