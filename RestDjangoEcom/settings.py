@@ -38,9 +38,9 @@ INSTALLED_APPS = [
 
 ]
 
-CORS_ALLOWED_ORIGINS = ['https://tqt-be-vue.herokuapp.com', 'https://tqt-vue-shop.netlify.app'
-    'http://localhost:8081', 'http://localhost:8080', 'http://localhost:8082',
-]
+CORS_ALLOWED_ORIGINS = ['https://tqt-be-vue.herokuapp.com', 'https://tqt-vue-shop.netlify.app',
+                        'http://localhost:8081', 'http://localhost:8080', 'http://localhost:8082',
+                        ]
 CORS_ORIGIN_ALLOW_ALL = True
 
 
